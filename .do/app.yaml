@@ -1,6 +1,6 @@
-spec:
-  features:
+features:
     - buildpack-stack=ubuntu-22
+spec:  
   name: steam-microtransaction-api  
   services:
     - name: microtransaction-api
