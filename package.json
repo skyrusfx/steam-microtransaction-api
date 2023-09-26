@@ -75,6 +75,9 @@
     "supertest": "^6.1.3",
     "ts-jest": "^29.0.5"
   },
+  "engines": {
+    "node": "18.x"
+  },
   "release-it": {
     "git": {
       "commitMessage": "chore: release v${version}"
