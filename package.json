@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jasielmacedo/steam-microtransaction-api.git"
+    "url": "git+https://github.com/skyrusfx/steam-microtransaction-api.git"
   },
   "keywords": [
     "typescript",
