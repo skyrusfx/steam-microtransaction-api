@@ -9,7 +9,7 @@ spec:
         repo_clone_url: https://github.com/skyrusfx/steam-microtransaction-api.git
       envs:
         - key: STEAM_WEBKEY
-          value: 'E9F09C45B9393D2DCA25FCEEEE028B18'
+          value: 'CC7632BA227477E1135397DF825878FE'
           type: SECRET
         - key: STEAM_CURRENCY
           value: 'USD'
